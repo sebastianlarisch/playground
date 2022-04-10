@@ -1,0 +1,17 @@
+{
+    "name": "sebastian.larisch/playground",
+    "description": "Sebastians Playground",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian Larisch",
+            "email": "tecker2010@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"sebastianlarisch\\PlayGround\\": "src/"}
+    },
+    "require": {}
+}
