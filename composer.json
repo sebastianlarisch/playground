@@ -1,7 +1,7 @@
 {
     "name": "sebastianlarisch/playground",
     "description": "Sebastians Playground",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
